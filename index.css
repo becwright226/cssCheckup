@@ -1,0 +1,111 @@
+
+h1 {
+    color: black;
+}
+
+.backg-1 {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+
+
+}
+
+.div-one {
+
+    background-color: rgb(69, 156, 152);
+    position: relative;
+    margin: 20px;
+    padding: 50px;
+    width: 85%;
+    height: inherit;
+    float:left;
+    border: 4px groove slategray;
+    font-family: 'Caveat',cursive;
+
+}
+
+.div-two {
+    margin: 20px;
+    background-color: lawngreen;
+    position: relative;
+    padding: 60px;
+    width: 25%;
+    height: inherit;
+    float: left;
+    border: 2px dotted blueviolet;
+    font-family: 'Cormorant',serif
+
+
+}
+
+.div-three {
+    margin: 20px;
+    background-color: crimson;
+    position: relative;
+    padding: 80px;
+    width: 30%;
+    height: 50vh;
+    float: right;
+    border: 3px solid rebeccapurple;
+    font-family: 'Poiret One',cursive;
+
+}
+
+.div-four {
+    margin: 20px;
+    position: relative;
+    background-image: url("../images\span-cath.jpg");
+    float:inherit;
+
+    
+}
+
+.div-five {
+    margin: 20px;
+    background-color: goldenrod;
+    position: relative;
+    padding: 60px;
+    width: 40%;
+    height: 50vh;
+    float: left;
+    border: 3x double rgba(255, 140, 0, 0.726);
+    font-family: 'Titan One',cursive;
+    font-size: small;
+}
+
+
+.newdiv {
+    margin: 20px;
+    background-color: rgb(139, 46, 61);
+    opacity: 50;
+    position: relative;
+    padding: 70px;
+    width: 25%;
+    height: 50vh;
+    float: right;
+    border: 6px double deeppink;
+
+}
+
+
+#img2 {
+    position: relative;
+    width: 35%;
+    height: 50vh;
+    border: 5px ridge goldenrod;
+}
+
+#p1 {
+    padding-left: 70vh;
+}
+
+#p2 {
+    padding-left: 70vh;
+}
+
+
+
+    
